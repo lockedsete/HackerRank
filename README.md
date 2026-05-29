@@ -28,3 +28,4 @@ In this repository, I'll share the challenges I'll be tackling on Hackerrank, sh
 | 3 |[Looping with Numbers](https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/problem)| [Solution](./solutions/Bash/looping-with-number.sh) | Easy | 2 ||
 | 4 |[The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem)| [Solution](./solutions/Bash/world-of-numbers.sh) | Easy | 2 ||
 | 5 |[Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem)| [Solution](./solutions/Bash/comparing-numbers.sh) | Easy | 3 ||
+| 6 |[Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem)| [Solution](./solutions/Bash/getting-started-with-conditionals.sh) | Easy | 3 ||
