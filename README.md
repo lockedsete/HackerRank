@@ -29,3 +29,4 @@ In this repository, I'll share the challenges I'll be tackling on Hackerrank, sh
 | 4 |[The World of Numbers](https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/problem)| [Solution](./solutions/Bash/world-of-numbers.sh) | Easy | 2 ||
 | 5 |[Comparing Numbers](https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/problem)| [Solution](./solutions/Bash/comparing-numbers.sh) | Easy | 3 ||
 | 6 |[Getting started with conditionals](https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/problem)| [Solution](./solutions/Bash/getting-started-with-conditionals.sh) | Easy | 3 ||
+| 7 |[Looping and Skipping](https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem?isFullScreen=true)| [Solution](./solutions/Bash/looping-and-skipping.sh) | Easy | 2 ||
